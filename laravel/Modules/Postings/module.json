@@ -1,0 +1,11 @@
+{
+    "name": "Postings",
+    "alias": "postings",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Postings\\Providers\\PostingsServiceProvider"
+    ],
+    "files": []
+}
